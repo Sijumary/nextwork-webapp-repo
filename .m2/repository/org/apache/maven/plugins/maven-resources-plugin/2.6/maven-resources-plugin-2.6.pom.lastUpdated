@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 18 23:46:28 UTC 2025
+502e70ab8c2bd6a77e79ef1dd23975ffeeed2c0d@default-nextwork-nextwork-packages-https\://nextwork-615299769491.d.codeartifact.eu-north-1.amazonaws.com/maven/nextwork-packages/.lastUpdated=1737243988170
+https\://nextwork-615299769491.d.codeartifact.eu-north-1.amazonaws.com/maven/nextwork-packages/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to nextwork-nextwork-packages (https\://nextwork-615299769491.d.codeartifact.eu-north-1.amazonaws.com/maven/nextwork-packages/)\: Not authorized , ReasonPhrase\:Unauthorized.
